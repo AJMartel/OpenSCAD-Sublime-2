@@ -4,13 +4,15 @@
 <dict>
 	<key>content</key>
 	<string>union() {
-	${0:${TM_SELECTED_TEXT/\n/\n\t/g}}
+	${0}
 }
 </string>
 	<key>keyEquivalent</key>
 	<string>^+</string>
-	<key>name</key>
+	<key>tabTrigger</key>
 	<string>union</string>
+	<key>name</key>
+	<string>Boolean Union</string>
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>uuid</key>

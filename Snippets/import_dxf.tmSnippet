@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>import_dxf("${1:filename.stl}");</string>
+	<string>import_dxf("${1:filename.stl}"); // Use import(); instead</string>
 	<key>name</key>
 	<string>import_dxf</string>
 	<key>scope</key>

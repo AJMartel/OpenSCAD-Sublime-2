@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Customizer Documentation URL: http://customizer.makerbot.com/docs${1:}
+	<string>// Customizer Documentation URL: http://customizer.makerbot.com/docs${1:}
 	</string>
 	<key>name</key>
 	<string>Customizer Documentation</string>

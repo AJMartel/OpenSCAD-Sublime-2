@@ -9,6 +9,9 @@
 // use &lt;MCAD/filename.scad>
 // use &lt;pins/pins.scad>
 // use &lt;write/Write.scad>
+// use &lt;utils/3dvector.scad>
+// use &lt;utils/hsvtorgb.scad>
+
 </string>
 	<key>name</key>
 	<string>Customizer Libraries</string>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>include &lt;${1:filename.scad}&gt;</string>
+	<string>include &lt;${1:filename.scad}&gt; // Use use(); instead</string>
 	<key>name</key>
 	<string>include</string>
 	<key>scope</key>

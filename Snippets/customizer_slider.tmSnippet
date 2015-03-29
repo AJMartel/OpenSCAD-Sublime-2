@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>
-// ${1:Slider Description}
+	<string>// ${1:Slider Description}
 ${2:variable} = ${3:default_value}; // [${4:0}:${5:10}]</string>
 	<key>name</key>
 	<string>Customizer Slider</string>

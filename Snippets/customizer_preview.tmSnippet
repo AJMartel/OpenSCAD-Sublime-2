@@ -3,7 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>// preview[view:${1:south}, tilt:${2:top}]</string>
+	<string>// preview[view:south, tilt:top]
+
+// View Options		Tilt Options
+//==============================
+// north			top
+// north east		top diagonal
+// east				side
+// south east		bottom diagonal
+// south			bottom
+// south west
+// west
+// north west</string>
 	<key>name</key>
 	<string>Customizer Default Preview</string>
 	<key>scope</key>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[rands(${1:min_value}, ${2:max_value}, ${3:value_count}, ${4:seed_value}); ]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>rands</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scad</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Random number generator</description>
+</snippet>

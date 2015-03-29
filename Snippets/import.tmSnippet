@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>import("${1:filename.stl}");</string>
 	<key>name</key>
-	<string>import_stl</string>
+	<string>Import STL or DXF</string>
 	<key>scope</key>
 	<string>source.scad</string>
 	<key>tabTrigger</key>

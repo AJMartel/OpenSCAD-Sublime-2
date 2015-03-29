@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>// ${1:Drop Down Box Description}
-${2:variable} = ${3:default_value}; // [${4:1},${5:2},${6:3}]</string>
+${2:variable} = ${3:default_value}; // [${4:1:Description},${5:2:Description}]</string>
 	<key>name</key>
 	<string>Customizer Drop Down Box</string>
 	<key>scope</key>

@@ -1,66 +1,25 @@
-# OpenSCAD Sublime Text 2 Package
+# OpenSCAD Sublime Text 2 Bundle
 
-This package is based on tbuser's OpenSCAD Textmate Bundle. I made some changes to make it work in Sublime Text 2. I've also added some Thingiverse Customizer specific snippets to speed up my workflow. 
-
-I took tbuser's awesome OpenSCAD bundle and added some Customizer specific snippets. I've also included as much as possible from the libraries currently supported by Customizer.
-
-Listed below are the new additions:
-
-###Makerbot Customizer Related
-
-* **customizer_dropdown.tmSnippet** -- Example Customizer Dropdown Box
-* **customizer_labeled\_dropdown.tmSnippet** -- Example Customizer & Labeled Dropdown Box
-* **customizer_libraries.tmSnippet** -- Drops in all currently supported Customizer libraries
-* **customizer_preview.tmSnippet** -- Example Customizer Preview
-* **customizer_slider.tmSnippet** -- Example Customizer Slider
-* **customizer_tabname.tmSnippet** -- Example Customizer Tab
-
-###build_plate.scad
-
-* **buildplate.tmSnippet** -- Drops in default customizer options
-
-###MCAD Library
-
-* MCAD_2D\_complexround.tmSnippet
-* MCAD_2D\_donutslice.tmSnippet
-* MCAD_2D\_ellipse.tmSnippet
-* MCAD_2D\_ellipsepart.tmSnippet
-* MCAD_2D\_ngon.tmSnippet
-* MCAD_2D\_pieslice.tmSnippet
-* MCAD_2D\_roundedsquare.tmSnippet
-* MCAD_boxes.tmSnippet
-* MCAD_gridbeam\_backboard.tmSnippet
-* MCAD_gridbeam\_bottomshelf.tmSnippet
-* MCAD_gridbeam\_frontboard.tmSnippet
-* MCAD_gridbeam\_topshelf.tmSnippet
-* MCAD_gridbeam\_translatebeam.tmSnippet
-* MCAD_gridbeam\_xbeam.tmSnippet
-* MCAD_gridbeam\_ybeam.tmSnippet
-* MCAD_gridbeam\_zbeam.tmSnippet
-* MCAD_involutegears\_bevelgear.tmSnippet
-* MCAD_involutegears\_bevelgearpair.tmSnippet
-* MCAD_involutegears\_gear.tmSnippet
-
-###pins.scad -- tbuser's Pins library
-
-* pin.tmSnippet
-* pinhole.tmSnippet
-* pinpeg.tmSnippet
-* pintack.tmSnippet
-
-###Write.scad -- HarlanDMii's text library
-
-* write.tmSnippet
-* writecircle.tmSnippet
-* writecube.tmSnippet
-* writecylinder.tmSnippet
-* writesphere.tmSnippet
+This is an edited version of Tony Buser's "OpenSCAD Textmate Bundle". I've updated the bundle to work (fairly) well with Sublime Text 2. 
 
 ## Installation
 
-1. Copy OpenSCAD to your **packages** folder.
+1. Copy OpenSCAD to your packages folder.
 
-* Windows: %APPDATA%\Sublime Text 2\Packages
-* OS X: ~/Library/Application Support/Sublime Text 2/Packages
-* Linux: ~/.Sublime Text 2/Packages
-* Portable Installation: Sublime Text 2/Data/Packages
+Windows: %APPDATA%\Sublime Text 2\Packages
+OS X: ~/Library/Application Support/Sublime Text 2/Packages
+Linux: ~/.Sublime Text 2/Packages
+Portable Installation: Sublime Text 2/Data/Packages 
+
+------------
+
+# OpenSCAD Textmate Bundle
+
+The builtin [OpenSCAD](http://openscad.org) editor... meh.  Put the OpenSCAD window on your second monitor, hide that ugly code editor, and turn on Automatic Reload and Compile so you can enjoy programming bliss in [TextMate](http://macromates.com) with color coding and lots of tab triggered code snippets.
+
+Look around the bundle, there's some handy stuff in there.  Select some code and press Ctrl + or open a script with a ton of modules and click cmd+shift+T and be amazed that you lived without it this long.
+
+## Installation
+
+    cd ~/Library/Application\ Support/TextMate/Bundles
+    git clone git://github.com/tbuser/openscad.tmbundle.git OpenSCAD.tmbundle

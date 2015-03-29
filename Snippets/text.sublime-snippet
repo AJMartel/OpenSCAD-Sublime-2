@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[text("${1:input}", size=${2:10}, font="${3:Arial}", halign="${4:left}", valign="${5:baseline}", spacing=${6:1}, direction="${7:ltr}");]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>text</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scad</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>OpenSCAD Text</description>
+</snippet>

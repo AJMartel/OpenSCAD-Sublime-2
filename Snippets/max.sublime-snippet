@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[max(${1:value1}, ${2:value2}); ]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>min</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scad</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Min</description>
+</snippet>

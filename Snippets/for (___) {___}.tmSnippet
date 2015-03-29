@@ -3,10 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>for (${20:i}=[${1:0}:${2:10}]) {
-	${}$0
-}
-</string>
+	<string>for (${1:i}=[${2:0}:${3:10}]) {
+	${4}
+}</string>
 	<key>name</key>
 	<string>for (...) {...}</string>
 	<key>scope</key>

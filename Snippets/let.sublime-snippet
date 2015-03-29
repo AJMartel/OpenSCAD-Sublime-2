@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[let (${1:a = b * 2}, ${2:b = c + b}) ]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>let</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scad</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Let</description>
+</snippet>

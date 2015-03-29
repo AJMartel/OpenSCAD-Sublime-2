@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[search(${1:"match_value"}, ${2:"string_or_vector"}, ${3:1}, ${4:0}); ]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>search</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scad</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Search</description>
+</snippet>

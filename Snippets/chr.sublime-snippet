@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[chr(${1:65}) ]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>chr</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scad</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>chr</description>
+</snippet>

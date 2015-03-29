@@ -4,8 +4,9 @@
 <dict>
 	<key>content</key>
 	<string>assign (${1:x} = ${2:0}) {
-	${}$0
+	$3 $SELECTION
 }
+
 </string>
 	<key>name</key>
 	<string>assign</string>
@@ -14,6 +15,6 @@
 	<key>tabTrigger</key>
 	<string>assign</string>
 	<key>uuid</key>
-	<string>36BE7AB5-4428-4E25-9CEF-B89A7936ADF8</string>
+	<string>36BE71B5-4428-4E25-9CEF-B89A7936ADF8</string>
 </dict>
 </plist>
