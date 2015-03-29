@@ -7,5 +7,5 @@
     <!-- Optional: Scope the tab trigger will be active in -->
     <scope>source.scad</scope>
     <!-- Optional: Description to show in the menu -->
-    <description>Customizer Font List</description>
+    <description>Customizer Full Font List</description>
 </snippet>

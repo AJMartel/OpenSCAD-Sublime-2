@@ -1,3 +1,15 @@
+##1.2 (2015-03-28)
+
+Features:
+
+* customizer_display_fonts.sublime-snippet -- Added snippet for Customizer's "Display" font group
+* customizer_fonts.sublime-snippet -- Added snippet for all supported Customizer fonts
+* customizer_handwriting_fonts.sublime-snippet -- Added snippet for Customizer's "Handwriting" font group
+* customizer_monospace_fonts.sublime-snippet -- Added snippet for Customizer's "Monospaced" font group
+* customizer_sansserif_fonts.sublime-snippet -- Added snippet for Customizer's "Sans Serif" font group
+* customizer_serif_fonts.sublime-snippet -- Added snippet for Customizer's "Serif" font group
+* customizer_stencil_fonts.sublime-snippet -- Added snippet for Customizer's "Stencil" font group
+
 ##1.1 (2015-03-28)
 
 Features:

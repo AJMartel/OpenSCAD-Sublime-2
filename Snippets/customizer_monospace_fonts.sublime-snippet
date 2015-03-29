@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[text_font = "Inconsolata"; // [Inconsolata,Source Code Pro,Droid Sans Mono,Ubuntu Mono,Cousine,PT Mono,Anonymous Pro,Fira Mono,Nova Mono,VT323,Cutive Mono,Oxygen Mono,Share Tech Mono]
+
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>custmonofonts</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scad</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Customizer Monospaced Fonts</description>
+</snippet>

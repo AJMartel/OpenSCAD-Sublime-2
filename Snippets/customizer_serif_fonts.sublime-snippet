@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[text_font = "Slabo 27px"; // [Slabo 27px,Lora,Droid Serif,Roboto Slab,Merriweather,Bitter,Playfair Display,PT Serif,Arvo,Bree Serif,Vollkorn,Noto Serif,Alegreya,Libre Baskerville,Rokkitt,Crimson Text,Crete Round,Noticia Text,Sanchez,Josefin Slab,Old Standard TT,Enriqueta,Playfair Display SC,EB Garamond,Kreon,Tinos,Gentium Book Basic,Domine,Cinzel,Vidaloka,Coustard,Cardo,Quattrocento,Cantata One,Antic Slab,Cutive,Glegoo,Sorts Mill Goudy,Fauna One,Neuton,Volkhov,Lusitana,Kameron,Copse,Alice,Goudy Bookletter 1911,Ultra,PT Serif Caption,Prata,Gentium Basic,Alike,Arapey,Trocchi,Radley,Adamina,Arbutus Slab,Port Lligat Slab,Caudex,Kotta One,Oranienbaum,Alegreya SC,IM Fell English,Marcellus,Lustria,Marcellus SC,Judson,Fenix,Poly,Average,Quando,Gilda Display,IM Fell English SC,Headland One,Ovo,Brawler,Bentham,Fjord One,Source Serif Pro,IM Fell DW Pica,Rufina,Tienne,Cambo,Buenard,Belgrano,Podkova,Halant,IM Fell French Canon,Esteban,Mate SC,IM Fell Double Pica,Unna,Gabriela,Holtwood One SC,Rosarivo,Amethysta,Fanwood Text,IM Fell Great Primer SC,Andada,IM Fell DW Pica SC,Ledger,Junge,Balthazar,Inika,Donegal One,Mate,Artifika,Jacques Francois,IM Fell Great Primer,Prociono,Montaga,IM Fell French Canon SC,Stoke,Linden Hill,Alike Angular,Petrona,IM Fell Double Pica SC,Della Respira,Habibi,Antic Didone,Trykker,Marko One,Almendra,Italiana,Slabo 13px,Vesper Libre,Gurajada,Karma,Almendra SC,Laila,Amiri,Rozha One,Scheherazade,Suranna,Ramaraja,Sree Krushnadevaraya,Suravaram,Peddana]
+
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>custseriffonts</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scad</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Customizer Serif Fonts</description>
+</snippet>

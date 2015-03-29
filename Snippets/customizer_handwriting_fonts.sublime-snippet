@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[text_font = "Indie Flower"; // [Indie Flower,Shadows Into Light,Pacifico,Dancing Script,Architects Daughter,Gloria Hallelujah,Coming Soon,Kaushan Script,Amatic SC,Covered By Your Grace,Courgette,Pinyon Script,Marck Script,Rock Salt,Satisfy,Handlee,Permanent Marker,Cookie,Shadows Into Light Two,Crafty Girls,Calligraffitti,Niconne,Tangerine,Patrick Hand,Waiting for the Sunrise,Great Vibes,Damion,Reenie Beanie,Bad Script,Walter Turncoat,Berkshire Swash,Nothing You Could Do,Gochi Hand,Rochester,Sacramento,Just Another Hand,Neucha,Rancho,Homemade Apple,Parisienne,Allura,Schoolbell,Merienda,Yellowtail,The Girl Next Door,Alex Brush,Just Me Again Down Here,Merienda One,Leckerli One,Petit Formal Script,Grand Hotel,Euphoria Script,Delius,Give You Glory,Yesteryear,Norican,Short Stack,La Belle Aurore,Vibur,Mr De Haviland,Sue Ellen Francisco,Patrick Hand SC,Montez,Italianno,Loved by the King,Over the Rainbow,Cedarville Cursive,Annie Use Your Telescope,Delius Swash Caps,Arizonia,Kristi,Meddon,Qwigley,Sofia,Kalam,Dawning of a New Day,Clicker Script,Redressed,Mr Dafoe,Zeyada,Engagement,Bilbo Swash Caps,Sunshiney,Delius Unicase,Herr Von Muellerhoff,Aladin,Quintessential,Rouge Script,Condiment,Julee,Aguafina Script,Lovers Quarrel,Swanky and Moo Moo,Fondamento,Bilbo,League Script,Mrs Saint Delafield,Ruthie,Devonshire,Molle,Monsieur La Doulaise,Eagle Lake,Stalemate,Romanesco,Butterfly Kids,Miss Fajardose,Mrs Sheppards,Dr Sugiyama,Mr Bedfort,Princess Sofia,Felipa,Meie Script,Jim Nightshade,Ruge Boogie,Bonbon,Dekko,Lateef,Lakki Reddy]
+
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>custhandfonts</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scad</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Customizer Handwriting Fonts</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[text_font = "Allerta Stencil"; // [Allerta Stencil,Sirin Stencil,Stardos Stencil]
+
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>custstencilfonts</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scad</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Customizer Stencil Fonts</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[text_font = "Open Sans"; // [Open Sans,Roboto,Oswald,Lato,Roboto Condensed,Source Sans Pro,PT Sans,Open Sans Condensed,Droid Sans,Raleway,Ubuntu,Montserrat,PT Sans Narrow,Arimo,Noto Sans,Yanone Kaffeesatz,Oxygen,Titillium Web,Dosis,Hind,Cabin,Abel,Fjalla One,Francois One,Muli,Nunito,Signika,Play,Ubuntu Condensed,Cuprum,Archivo Narrow,Asap,Maven Pro,Karla,Josefin Sans,Merriweather Sans,Anton,Armata,Varela Round,PT Sans Caption,Quicksand,Monda,Exo 2,Exo,Pathway Gothic One,Istok Web,Questrial,Ropa Sans,Gudea,Pontano Sans,News Cycle,Fira Sans,Cabin Condensed,Orbitron,BenchNine,Jura,Economica,Philosopher,Didact Gothic,Sintony,Nobile,Quattrocento Sans,Hammersmith One,Paytone One,Archivo Black,Cantarell,Russo One,Varela,Molengo,Amaranth,Alegreya Sans,Scada,Signika Negative,Marvel,Voltaire,Ruda,Actor,Chivo,ABeeZee,Viga,Michroma,Syncopate,Montserrat Alternates,Basic,Rambla,Allerta,Doppio One,Marmelad,Carrois Gothic,Jockey One,Electrolize,Rosario,Carme,Telex,Julius Sans One,Belleza,Alegreya Sans SC,Allerta Stencil,Aldrich,Six Caps,Denk One,Acme,Antic,Advent Pro,Mako,Inder,Homenaje,Convergence,Candal,Average Sans,Days One,Alef,Aclonica,Puritan,Metrophobic,Capriola,Duru Sans,Rajdhani,Spinnaker,Tenor Sans,Magra,Imprima,Tauri,Orienta,Quantico,Strait,Anaheim,Andika,Lekton,Shanti,Wire One,Englebert,Carrois Gothic SC,Geo,Federo,Share Tech,Khand,Chau Philomene One,Gafata,Mouse Memoirs,Kite One,Rationale,Cantora One,Dorsa,Coda Caption,Ek Mukta,Numans,Fresca,Cagliostro,Snippet,Port Lligat Sans,Teko,Text Me One,Ruluko,Krona One,Rum Raisin,Wendy One,Asul,Galdeano,Khula,Montserrat Subrayada,Bubbler One,Seymour One,Rubik One,Sarpanch,Martel Sans,Mallanna,Ramabhadra,Cambay,Mandali,NTR,Rubik Mono One,Dhurjati,Tenali Ramakrishna,Timmana,Gidugu]
+
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>custsansfonts</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.scad</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Customizer Sans Serif Fonts</description>
+</snippet>
