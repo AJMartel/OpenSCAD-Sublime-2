@@ -49,6 +49,6 @@ Bugfixes:
 * intersection_for (\_\_\_) {\_\_\_}.tmSnippet -- Fixed disply error in Sublime Text 2
 * union.tmSnippet -- Fixed disply error in Sublime Text 2
 
-##1.0 (2015-03-29)
+##1.0 (2013-03-29)
 
 * Initial Release
